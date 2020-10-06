@@ -1,11 +1,8 @@
-A RestFul Api library for Dart developers.
+A Command line Api library for Dart developers.
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://gitee.com/darto/restful/blob/master/LICENSE).
 
 ## Usage
-restful api for small things...
-
+command line apps for small things...
 
 your app.dart file example:
 
